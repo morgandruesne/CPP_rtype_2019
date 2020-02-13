@@ -1,0 +1,10 @@
+{
+    "name" : "enemy",
+    "sprite" : "enemy.png",
+    "speed" : 15,
+    "height" : 50,
+    "width" : 50,
+    "life" : 50,
+    "weapons" : [ "fireshot" ],
+    "pattern" : [[1.0, 1.0], [1.0, -1.0]]
+}

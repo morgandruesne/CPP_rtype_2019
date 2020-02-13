@@ -1,0 +1,9 @@
+{
+    "name" : "basic",
+    "sprite" : "spaceship.png",
+    "speed" : 5,
+    "height" : 17,
+    "width" : 33,
+    "life" : 100,
+    "weapons" : [ "fireshot" ]
+}

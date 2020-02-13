@@ -1,0 +1,10 @@
+{
+    "name" : "fireshot",
+    "sprite" : "fireshot.png",
+    "speed" : 25,
+    "width" : 50,
+    "height" : 16,
+    "damage" : 10,
+    "reload" : 1.0,
+    "pattern" : [[1.0, 0.0]]
+}
